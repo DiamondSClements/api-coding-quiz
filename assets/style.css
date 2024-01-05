@@ -1,0 +1,42 @@
+html{
+    background-color: darkgreen;
+}
+
+#quiz-container{
+    margin-left: 25%;
+    color: white;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+}
+
+#timer{
+    color: white;
+    font-size: 20px;
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 200px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+
+  img{
+    height: 400px;
+    width: 500px;
+    margin-left: 40%;
+    margin-top: 5%;
+  }
