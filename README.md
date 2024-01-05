@@ -1,5 +1,5 @@
 # api-coding-quiz
-Refactoring existing code
+Creating coding assessment
 
 ## Description
 The objective for this assignment was to build a timed coding assessment that ran in the browser and featured HTML, CSS, and JavaScript code. 
