@@ -41,6 +41,4 @@ I was able to build a coding assessment based on the criteria provided.
 
 
 
-## Conclusion
 
-After putting all my elements together, I was able to create a coding assessment based on the criteria. 
